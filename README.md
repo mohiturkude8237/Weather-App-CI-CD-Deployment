@@ -2,6 +2,9 @@
 
 A React Weather Application deployed using Docker, Nginx, and Jenkins CI/CD for production-grade deployment.
 
+##Project Deployment Flow
+![Project-Deployment-Flow](/images/project-deployment-flow.png)
+
 ## Tech Stack
 
 - Frontend: React + Vite
